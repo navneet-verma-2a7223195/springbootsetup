@@ -26,4 +26,4 @@ Step 5- If you change pom.xml then repeat step 6 again and again.
 
 Step 6- Then create MVC model in the project by creating packages.
 
-Step 7- Run Spring boot application, then create rest api and spring profiles.
+Step 7- Run Spring boot application, then create rest api and spring profiles as required.
