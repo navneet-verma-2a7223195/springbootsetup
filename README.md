@@ -21,7 +21,7 @@ logging.level.org.hibernate.SQL=DEBUG
 Step 4- Go to the directory of the project, open command prompt there and type 
 o	mvn clean install
 
-Step 5- If you change pom.xml then repeat step 6 again and again.
+Step 5- If you change pom.xml then repeat step 4 again and again.
 
 
 Step 6- Then create MVC model in the project by creating packages.
